@@ -21,7 +21,9 @@ error: ‘z’ undeclared (first use in this function)
 1)Errors in Nested Loops:
 
 error: unknown type name ‘this’
+
 error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
 error: expected declaration or statement at end of input
 
 2)Output of Prog2:
