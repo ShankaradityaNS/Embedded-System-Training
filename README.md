@@ -4,14 +4,16 @@
 1)Password Prog:
 Enter password; euro2021
 xxxxxxxx
+
 2)Prog Output:
 1
+
 4)Prog Error Output:
 error: ‘z’ undeclared (first use in this function)
 
 
 #Assign 1:
-1) Errors in Nested Loops:
+1)Errors in Nested Loops:
 error: unknown type name ‘this’
 error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
 error: expected declaration or statement at end of input
