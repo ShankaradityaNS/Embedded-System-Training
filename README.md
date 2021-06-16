@@ -11,6 +11,13 @@ xxxxxxxx
 
 1
 
+3)Prog Output:
+
+Enter a number:243556889798
+
+Sum is=57
+
+
 4)Prog Error Output:
 
 error: ‘z’ undeclared (first use in this function)
