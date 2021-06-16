@@ -1,10 +1,34 @@
 ## Embedded-System-Training
 
+#Assign 3:
+
+1)Recursion Prog1:
+
+Enter number N- 10
+
+Printing all numbers from N to 1:
+
+10 9 8 7 6 5 4 3 2 1
+
+2)Recursion Prog:
+
+Enter number N- 10
+
+Printing all numbers from 1 to N:
+
+1 2 3 4 5 6 7 8 9 10
+
+3)Binary to Decimal:
+
+Enter number to be converted to binary: 25
+
+Binary No of 25 is 1100
+
 #Assign 2:
 
 1)Password Prog:
 
-Enter password; euro2021
+Enter password: euro2021
 xxxxxxxx
 
 2)Prog Output:
