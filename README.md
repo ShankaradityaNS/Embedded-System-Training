@@ -1,5 +1,31 @@
 ## Embedded-System-Training
 
+#Assign 4:
+1)Details About Moxa Board
+
+2)Linux Command to print time in sec,millisec and nanosec :
+
+date +%c%n%r%n%S%n%3N%n%N
+
+Thursday 17 June 2021 11:04:48 PM IST
+
+11:04:48 PM IST
+
+48
+
+728
+
+728780183
+
+3)Why Inline function needs static storage class:
+
+When inline functions are declared in a program and they are compiled on a GCC compiler we get an error stating undefined reference to that particular function.
+This is because GCC performs inline substitution for code optimization and there is no function call statements in main(). The inline function is not provided 
+with a linker and therefore the main() cannot call it. To over come this error we use static storage to force the compiler to include the inline function in the linker and function calls can now be made.
+
+4)How are arguements passed to other function and how is that value assigned to varible:
+There are two ways to pass arguements in a function call statement- pass by value and pass by reference. In pass by value a copy of the data is made and stored by way of the name of the parameter. Any changes to the parameter has no affect on data in the calling function. In pass by reference a reference parameter is created for the original data in the calling function which will then be accessed by the variables in the called function. Ay changes made to the parameter are also  made to the original variable. 
+
 #Assign 3:
 
 1)Recursion Prog1:
