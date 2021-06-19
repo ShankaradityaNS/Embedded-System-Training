@@ -1,0 +1,9 @@
+About Moxa Devices:
+- They are devices that are made to enable Serial to ethernet or USB to Serial communication or transfer of information.
+- They are specifically designed to allow devices to directly connect to an existing network. 
+- This allows us to monitor or control these devices over that particular network or over the internet.
+- Moxa offers high-performance, industrial-grade connections for your PC with up to 16 serial devices over a single USB port. 
+- An example is the NPort 5000 device servers, a Serial to Ethernet Convertor, that is designed to make serial devices network-ready in an instant and make your serial devices available 
+anywhere on the network.
+- Another example is the UPort 1100 series a USB-to-serial converters are the perfect accessory for laptop computers that do not have a serial port and are essential for engineers who 
+need to connect different serial devices in the field or separate interface converters for devices without a standard COM port 
