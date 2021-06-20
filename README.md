@@ -1,5 +1,27 @@
 ## Embedded-System-Training
 
+#Assign 5:
+
+1)Inline function advantage over macro
+
+Inline program: 
+
+Enter value for a and b:5 6
+
+Product of a and b=30
+
+Product of a+2 and b+3=63
+
+Macro Program:
+
+Enter values for a and b: 5 6
+
+Product of a and b is:30
+
+Incorrect product of a+2 and b+3 is:20
+
+Correct product of a+2 and b+3 is:63
+
 #Assign 4:
 1)Details About Moxa Board
 
